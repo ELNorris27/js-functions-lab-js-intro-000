@@ -1,5 +1,5 @@
 var happyHolidays = function() {
-  return "Happy Holidays";
+  return "Happy holidays";
 };
 
 var happyHolidaysTo = function(name) {
